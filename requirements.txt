@@ -1,0 +1,2 @@
+# Pixi runtime dependency
+textual>=0.60.0

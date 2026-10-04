@@ -1,0 +1,121 @@
+[
+  {
+    "label": "[F] Work",
+    "type": "folder",
+    "quadrant": null,
+    "priority": 0,
+    "uid": "a1b2c3d4-0001-4000-8000-000000000001",
+    "completed": false,
+    "children": [
+      {
+        "label": "[T] Ship the quarterly report",
+        "type": "task",
+        "quadrant": "Q1",
+        "priority": 1,
+        "uid": "a1b2c3d4-0002-4000-8000-000000000002",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] Fix production bug",
+        "type": "task",
+        "quadrant": "Q1",
+        "priority": 2,
+        "uid": "a1b2c3d4-0003-4000-8000-000000000003",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] Plan next quarter roadmap",
+        "type": "task",
+        "quadrant": "Q2",
+        "priority": 1,
+        "uid": "a1b2c3d4-0004-4000-8000-000000000004",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] Refactor legacy module",
+        "type": "task",
+        "quadrant": "Q2",
+        "priority": 2,
+        "uid": "a1b2c3d4-0005-4000-8000-000000000005",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] Answer team Slack messages",
+        "type": "task",
+        "quadrant": "Q3",
+        "priority": 1,
+        "uid": "a1b2c3d4-0006-4000-8000-000000000006",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] Scroll tech news feeds",
+        "type": "task",
+        "quadrant": "Q4",
+        "priority": 1,
+        "uid": "a1b2c3d4-0007-4000-8000-000000000007",
+        "completed": false,
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "[F] Personal",
+    "type": "folder",
+    "quadrant": null,
+    "priority": 0,
+    "uid": "a1b2c3d4-0008-4000-8000-000000000008",
+    "completed": false,
+    "children": [
+      {
+        "label": "[T] Book dentist appointment",
+        "type": "task",
+        "quadrant": "Q1",
+        "priority": 3,
+        "uid": "a1b2c3d4-0009-4000-8000-000000000009",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] 30 min exercise",
+        "type": "task",
+        "quadrant": "Q2",
+        "priority": 3,
+        "uid": "a1b2c3d4-0010-4000-8000-000000000010",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] Read 20 pages of a book",
+        "type": "task",
+        "quadrant": "Q2",
+        "priority": 4,
+        "uid": "a1b2c3d4-0011-4000-8000-000000000011",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] Pick up package",
+        "type": "task",
+        "quadrant": "Q3",
+        "priority": 2,
+        "uid": "a1b2c3d4-0012-4000-8000-000000000012",
+        "completed": false,
+        "children": []
+      },
+      {
+        "label": "[T] Sort old email inbox",
+        "type": "task",
+        "quadrant": "Q4",
+        "priority": 2,
+        "uid": "a1b2c3d4-0013-4000-8000-000000000013",
+        "completed": false,
+        "children": []
+      }
+    ]
+  }
+]
