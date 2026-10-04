@@ -177,13 +177,6 @@ pixi/
 └── .github/workflows/ci.yml # CI: 5 Python versions + lint
 ```
 
-## 🗺️ Roadmap
-
-- [ ] Export/import to Markdown & CSV
-- [ ] Weekly score trend charts inside the TUI
-- [ ] Custom quadrant base scores via config file
-- [ ] Due dates & reminders
-- [ ] Homebrew / PyPI distribution
 
 ## 🤝 Contributing
 
